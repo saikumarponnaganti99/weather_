@@ -1,0 +1,126 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-container {
+    background-image: url("https://images.unsplash.com/photo-1534274988757-a28bf1a57c17?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=435&q=80");
+    height: 100vh;
+    background-size: cover;
+    padding: 30px;
+
+}
+
+.heading {
+    color: #bbbfbe;
+    text-align: center;
+    font-family: Bree Serif;
+
+}
+
+.weather-container {
+    background-color: black;
+
+    width: 100%;
+    opacity: 0.8;
+
+
+    border-radius: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.text-box {
+    background-color: #0d0f0e;
+    border-style: solid;
+    border-color: black;
+    border-width: 0px;
+    padding: 4px;
+    padding-left: 7px;
+    width: 75%;
+    color: #ffffff;
+    margin-left: 10px;
+
+
+}
+
+.cloudanddescripp {
+    margin-right: 30px;
+}
+
+.search-container {
+    background-color: #0d0f0e;
+    width: 30px;
+    border-radius: 15px;
+    margin-left: 2px;
+    margin-right: 20px;
+}
+
+.search-icon {
+    padding-top: 7px;
+}
+
+.weather-degree-para {
+    color: #e8edeb;
+    font-family: Roboto;
+}
+
+.weather-degree-heading {
+    color: #e8edeb;
+    font-family: Roboto;
+    padding: 0px;
+    width: 100%;
+}
+
+.feelsLike-span {
+    color: #cdddf7;
+    font-size: 14px;
+}
+
+.clouds-image {
+    font-size: 60px;
+    color: #e1f2ef;
+    padding-left: 10px;
+
+}
+
+.clouds-name {
+    color: #868a88;
+    font-family: Roboto;
+    margin-left: 5px;
+}
+
+.humidity-wind {
+    font-size: 18px;
+    color: #868a88;
+    font-family: Roboto;
+    margin-top: 8px;
+}
+
+
+.card-container {
+    background-color: #0d0f0e;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 20px;
+    width: 80%;
+    margin-top: 10px;
+    margin-left: 30px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.humidity-image {
+    color: #e1f2ef;
+    width: 100%;
+
+}
+
+
+
+.images-container {
+    background-color: black;
+    margin-left: 15px;
+    opacity: 0.3;
+}
+
+.box-container {
+    width: 30%;
+}
